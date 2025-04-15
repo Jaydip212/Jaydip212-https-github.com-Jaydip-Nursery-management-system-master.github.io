@@ -35,6 +35,6 @@ The management of seedlings can be done in a better way with minimum care, cost 
   ```
  ### Live Demo of webpage
  ****
-   [Preview of the project available here!!!]()
+   [Preview of the project available here!!!](https://jaydip212.github.io/Jaydip212-https-github.com-Jaydip-Nursery-management-system-master.github.io/)
 
 Thank you....
